@@ -1,7 +1,7 @@
 ## Opa apenas o Bruno aqui
 
 🌱 Aprendendo sobre o front-end e querendo embarcar no back-end; Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.<br>
-📩 brunomarcodasilva@gmail.com
+📩 Contact-me: brunomarcodasilva@gmail.com
 
 <div align="center">
   <a href="https://github.com/BrunoTZNR">
