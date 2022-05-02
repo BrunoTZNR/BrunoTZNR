@@ -8,7 +8,9 @@
 * JAVASCRIPT
 * C
 * C++
-* MYSQL
+* C#
+* SQL
+* PHP
 
 <div align="center">
   <a href="https://github.com/BrunoTZNR">
