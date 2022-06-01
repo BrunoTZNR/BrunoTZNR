@@ -5,12 +5,7 @@
 
 ### Studing
 
-* JAVASCRIPT
-* C
-* C++
-* C#
-* SQL
-* PHP
+JAVASCRIPT, C, C++, C#, SQL, PHP;
 
 <div align="center">
   <a href="https://github.com/BrunoTZNR">
@@ -25,6 +20,7 @@
   <img align="center" widht="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" widht="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" widht="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 </div>
   
 ##
