@@ -5,7 +5,7 @@
 
 ### Studing
 
-JAVASCRIPT, C, C++, C#, SQL, PHP;
+JAVASCRIPT, C#, SQL, PHP;
 
 <div align="center">
   <a href="https://github.com/BrunoTZNR">
